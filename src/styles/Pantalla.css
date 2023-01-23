@@ -1,8 +1,9 @@
-.output{
+.pantalla{
   height: 75px;
   border-radius: 50px;
   margin-bottom: 20px;
   display: flex;
+  flex-wrap: nowrap;
   justify-content: flex-end;
   align-items: center;
   font-size: 30px;
